@@ -1,9 +1,9 @@
 ### Olá!! Eu sou o Emanuel Castro! 👋
 
 
-- 🔭 Atualmente eu crio por conta própria alguns jogos em Unity e sistemas em Python.
-- 🌱 Estudando WebScraping, Unity e melhorando meus conhecimentos em Python com os livros: Thinking in Python, Fluent in Python e The Hitchhiker’s Guide to Python.
-- 📫 Como falar comigo: email: emanuelsmcastro3@gmail.com, telefone: 55+ (21)976125835.
+- 🔭 Sou o seu desenvolvedor Back-End.
+- 🌱 Minha linguagem principal é Python, porém tenho experiência em: C#, C++, JavaScript.
+- 📫 Como falar comigo: email: emanuelsmcastro3@gmail.com, telefone: 55+ (21)97612-5835.
 
 <div align="center">
   <a href="https://github.com/emanuelsmcastro">

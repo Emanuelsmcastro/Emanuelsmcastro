@@ -21,10 +21,10 @@
   <img align="center" alt="Emanuel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Emanuel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Emanuel-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
-  <img align="center" alt="Emanuel-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazonaws.svg">
-  <img align="center" alt="Emanuel-Node" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg">
-  <img align="center" alt="Emanuel-JS" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg">
-  <img align="center" alt="Emanuel-JS" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/docker.svg">
+  <img align="center" alt="Emanuel-AWS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+  <img align="center" alt="Emanuel-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Emanuel-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Emanuel-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg">
 </div>
    
   ##

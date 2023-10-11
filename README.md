@@ -2,11 +2,11 @@
 
 
 - 🔭 Sou o seu desenvolvedor Back-End.
-- 🌱 Minha linguagem principal é Python, porém tenho experiência em: C#, C++, JavaScript.
+- 🌱 Minha linguagem principal é Python, porém tenho experiência em: Java, C#, C++, JavaScript.
 - 💫 Tenho experiência com criação de sites completos utilizando Django e API's utilizando FastAPI.
 - 🐋 Tenho experiência com criação de containers e imagens Docker para criação de aplicações.
 - 🤖 Tenho experiência com Machine Learning e computer vision utilizando OpenCV, YOLO e Darknet.
-- 🏦 Tenho experiência com MySQL e SQLAlchemy.
+- 🏦 Tenho experiência com MySQL, SQLAlchemy, JDBC e Hibernate.
 - ☁️ Tenho experiência com a AWS.
 - 📫 Como falar comigo: email: emanuelsmcastro3@gmail.com, telefone: 55+ (21)97612-5835.
 

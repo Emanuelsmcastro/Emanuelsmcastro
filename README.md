@@ -4,6 +4,7 @@
 - 🔭 Sou o seu desenvolvedor Back-End.
 - 🌱 Minha linguagem principal é Python, porém tenho experiência em: Java, C#, C++, JavaScript.
 - 💫 Tenho experiência com criação de sites completos utilizando Django e API's utilizando FastAPI.
+- 💫 Tenho experiência com criação de API's utilizando o framework Spring Boot.
 - 🐋 Tenho experiência com criação de containers e imagens Docker para criação de aplicações.
 - 🤖 Tenho experiência com Machine Learning e computer vision utilizando OpenCV, YOLO e Darknet.
 - 🏦 Tenho experiência com MySQL, SQLAlchemy, JDBC e Hibernate.
